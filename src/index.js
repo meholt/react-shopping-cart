@@ -8,7 +8,7 @@ const AppWithRouter = withRouter(App);
 
 ReactDOM.render(
 	<Router>
-		<AppWithRouter />
+			<AppWithRouter />
 	</Router>,
 	document.getElementById('root')
 );
